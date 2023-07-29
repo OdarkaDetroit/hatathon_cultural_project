@@ -1,0 +1,38 @@
+.filter-card {
+    position: relative;
+    height: 100%;
+}
+
+.filter-card img {
+    border-radius: 20px;
+    height: 100%;
+}
+
+.filter-card button {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 18px 26px;
+    margin: 20px;
+
+    width: 344px;
+    height: 91px;
+    flex-shrink: 0;
+
+    position: absolute;
+    bottom: 0;
+    border-radius: 20px;
+    background: #FFF;
+
+    color: var(--main-dark);
+    text-align: center;
+    font-family: Kharkiv Tone, serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 28.8px */
+}
+
+.filters-results-layout-vertical .vertical-card{
+    height: 50%;
+}

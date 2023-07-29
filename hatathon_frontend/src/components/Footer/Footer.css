@@ -1,0 +1,59 @@
+footer{
+    width: 100%;
+}
+
+.logo img{
+    fill: #FFF;
+}
+
+.footer {
+    padding: 0 78px;
+    width: 100%;
+    height: 180px;
+
+    background-color: var(--accent-dark-blue);
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    color: #FFF;
+    font-family: MacPaw Fixel Text, serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%; /* 19.2px */
+}
+
+footer ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 0;
+}
+
+footer ul:nth-child(2) {
+    flex: 1;
+}
+
+footer ul:nth-child(2) li {
+    max-width: 140px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+footer ul:nth-child(3) li:nth-child(3) {
+    border-left: 1px solid var(--main-dark);
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+    margin-left: 16px;
+}
+
+.footer .logo .icon{
+    fill: #FFFFFF;
+}

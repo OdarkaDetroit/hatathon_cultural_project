@@ -1,0 +1,32 @@
+.filter-section{
+    margin-top: 100px;
+}
+
+.filters{
+    margin-top: 73px;
+}
+
+.filters-header {
+    color: var(--accent-dark-blue);
+    text-align: center;
+    font-family: Kharkiv Tone, serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 72px */
+}
+
+.filters-elements{
+    margin-bottom: 60px;
+}
+
+.filters-results-layout{
+    height: 600px;
+    display: flex;
+    gap: 24px;
+}
+
+.filters-results-layout-vertical{
+    flex-direction: column;
+
+}

@@ -10,7 +10,9 @@ const Homepage = () => {
         <Hero/>
         <Filters/>
         <Tests/>
-        <Footer/>
+        <div className={"w-full footer-wrapper"}>
+            <Footer/>
+        </div>
     </div>
 }
 

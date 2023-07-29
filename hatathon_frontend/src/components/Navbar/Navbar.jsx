@@ -1,12 +1,14 @@
 import React from 'react'
 import "./Navbar.css"
-import logo from "./logo.svg"
+import logo from "./../../assets/homepage.svg"
 import account_icon from "./account_icon.svg"
 
 const Navbar = () => {
     return <nav>
         <a href="#" className="logo">
-            <img src={logo} alt="Logo"/>
+            <svg className="icon">
+                <use href={logo + "#logo"}></use>
+            </svg>
         </a>
 
         <ul>

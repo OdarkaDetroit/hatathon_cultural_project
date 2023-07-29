@@ -10,12 +10,16 @@ nav {
     justify-content: space-between;
     align-items: center;
 
-    color: var(--dark-color, #001F44);
+    color: var(--main-dark, #001F44);
     font-family: MacPaw Fixel Text, serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 120%; /* 19.2px */
+}
+
+nav .icon{
+    fill: var(--accent-dark-blue)
 }
 
 nav ul {
@@ -39,7 +43,7 @@ nav ul:nth-child(2) li {
 }
 
 nav ul:nth-child(3) li:nth-child(3) {
-    border-left: 1px solid var(--dark-color);
+    border-left: 1px solid var(--main-dark);
     height: 30px;
     display: flex;
     align-items: center;
