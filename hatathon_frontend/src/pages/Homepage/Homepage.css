@@ -1,0 +1,10 @@
+#homepage{
+    background-color: var(--beige-color);
+    padding: 0 2vw;
+}
+
+.nav-wrapper{
+    position: fixed;
+    top: 8vh;
+    width: 100%;
+}
