@@ -3,11 +3,11 @@ import "./Hero.css"
 import map from "./map.svg"
 
 const Hero = () => {
-    return (<div className="hero-container">
+    return (<div className="hero-container" id={"map-section"}>
         <div className={"hero"}>
             <div className={"wrapper"}>
                 <div className="hero-header">Замандруй у глибини <br/> нематеріальної спадщини України</div>
-                <div className="map-section">
+                <div>
                     <img src={map} alt=""/>
                 </div>
             </div>

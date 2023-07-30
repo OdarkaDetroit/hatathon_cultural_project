@@ -8,7 +8,7 @@ import FilterCard from "../FilterCard/FilterCard";
 
 const Filters = () => {
     return (
-        <div className="filter-section wrapper">
+        <div className="filter-section wrapper" id="articles">
             <h1 className="filters-header">Впіймай ехо історії</h1>
             <div className="filters">
                 <div className="filters-elements">

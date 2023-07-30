@@ -1,0 +1,25 @@
+#homepage {
+    background-color: var(--beige-color);
+    padding: 0 2vw;
+}
+
+.nav-wrapper {
+    position: fixed;
+    top: 8vh;
+    width: 100%;
+    z-index: 300;
+}
+
+.blue-header {
+    color: var(--accent-dark-blue);
+    text-align: center;
+    font-family: Kharkiv Tone, serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%; /* 72px */
+}
+
+.footer-wrapper {
+    margin-bottom: 48px;
+}

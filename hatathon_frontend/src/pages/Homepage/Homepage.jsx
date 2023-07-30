@@ -11,7 +11,7 @@ const Homepage = () => {
         <Filters/>
         <Tests/>
         <div className={"w-full footer-wrapper"}>
-            <Footer/>
+            <Footer dark={true}/>
         </div>
     </div>
 }

@@ -6,7 +6,7 @@ import question from './question.svg'
 
 const Tests = () => {
     return (
-        <div className="tests-section wrapper">
+        <div className="tests-section wrapper" id="tests">
             <h1 className="blue-header">Вивчай спадщину через тести</h1>
             <div className="tests">
                 <div className="test-row">
