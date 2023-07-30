@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hatathon_cultural_project/static/css/main.ebec5264.css",
-    "main.js": "/hatathon_cultural_project/static/js/main.9af90df7.js",
+    "main.js": "/hatathon_cultural_project/static/js/main.2926fcc3.js",
     "static/js/787.e650efd7.chunk.js": "/hatathon_cultural_project/static/js/787.e650efd7.chunk.js",
     "static/media/card2.png": "/hatathon_cultural_project/static/media/card2.8381be85d38c0231ba21.png",
     "static/media/map.png": "/hatathon_cultural_project/static/media/map.13dc50187d63dcc04995.png",
@@ -15,11 +15,11 @@
     "index.html": "/hatathon_cultural_project/index.html",
     "static/media/clock.svg": "/hatathon_cultural_project/static/media/clock.4e1a9e996c0e148f367a0d5ed2b002f8.svg",
     "main.ebec5264.css.map": "/hatathon_cultural_project/static/css/main.ebec5264.css.map",
-    "main.9af90df7.js.map": "/hatathon_cultural_project/static/js/main.9af90df7.js.map",
+    "main.2926fcc3.js.map": "/hatathon_cultural_project/static/js/main.2926fcc3.js.map",
     "787.e650efd7.chunk.js.map": "/hatathon_cultural_project/static/js/787.e650efd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebec5264.css",
-    "static/js/main.9af90df7.js"
+    "static/js/main.2926fcc3.js"
   ]
 }
